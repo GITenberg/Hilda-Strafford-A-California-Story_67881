@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '42144'
     url: http://www.gutenberg.org/2009/agents/42144
     wikipedia: https://en.wikipedia.org/wiki/Eric_Pape
+covers:
+- cover_type: archival
+  image_path: 67881-h/images/cover.jpg
 creator:
   author:
     agent_name: Harraden, Beatrice
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4389
     wikipedia: https://en.wikipedia.org/wiki/Beatrice_Harraden
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67881#Hilda-Strafford-A-California-Story
 gutenberg_issued: '2022-04-20'
 identifiers:
   gutenberg: '67881'
